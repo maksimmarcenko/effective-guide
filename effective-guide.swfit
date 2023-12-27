@@ -1,0 +1,4 @@
+class User {
+    var username: String
+    private var password: String
+    private var isLoggedIn: Bool
